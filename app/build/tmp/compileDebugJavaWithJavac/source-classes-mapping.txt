@@ -1,0 +1,4 @@
+co/edu/unipiloto/constraintlayouts/BuildConfig.java
+ co.edu.unipiloto.constraintlayouts.BuildConfig
+co/edu/unipiloto/constraintlayouts/MainActivity.java
+ co.edu.unipiloto.constraintlayouts.MainActivity
